@@ -2,8 +2,6 @@
 //  ContentView.swift
 //  menuBarAppTemplate
 //
-//  Created by Gill Palmer on 29/8/2025.
-//
 
 import SwiftUI
 
